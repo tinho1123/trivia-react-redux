@@ -1,0 +1,50 @@
+.containerMenuRanking {
+    max-width: 500px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.buttonHome {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.rankingName {
+    padding: 10px;
+}
+
+.containerUsers {
+    max-width: 500px;
+    background-color: white;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.Users {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.playerPicture {
+    border-radius: 50%;
+}
+
+.playerScore {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.playerName {
+    margin-top: auto;
+    margin-bottom: auto;
+}

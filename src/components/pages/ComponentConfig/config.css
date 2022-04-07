@@ -1,0 +1,16 @@
+.configContainer {
+    max-width: 300px;
+    padding-top: 5vh;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+}
+
+.configButtonVoltar {
+    margin: 50px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+}

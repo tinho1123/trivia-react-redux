@@ -1,0 +1,37 @@
+.feedBackContainer {
+    max-width: 300px;
+    background-color: white;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.feedbackUserPicture {
+    border-radius: 50%;
+}
+
+.feedBackPlayerName {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
+
+.feedBackScore {
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feedBackApoioMoral {
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.feedBackButton {
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+}
